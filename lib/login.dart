@@ -20,6 +20,7 @@ class _LoginState extends State<Login> {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            const Text("..."),
             const Text("Adı Soyadı"),
             const Text("Şifre"),
             ElevatedButton(
